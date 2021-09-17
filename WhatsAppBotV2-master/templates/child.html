@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block content %}
+<table class="GeneratedTable">
+  <thead>
+    <tr>
+      <th>Sede</th>
+      <th>Curso</th>
+      <th>Escenario</th>
+      <th>Zona</th>
+      <th>Fecha</th>
+      <th>Horario</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for dato in data.values() %}
+    <tr>
+      <td>{{dato[0]}}</td>
+      <td>{{dato[1]}}</td>
+      <td>{{dato[2]}}</td>
+      <td>{{dato[3]}}</td>
+      <td>{{dato[4]}}</td>
+      <td>{{dato[5]}}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

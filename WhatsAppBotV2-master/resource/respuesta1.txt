@@ -1,0 +1,20 @@
+Buen día, en *Compensar* queremos invitarlos a que realicen el agendamiento correspondiente de aquellas clases que debido a la emergencia sanitaria del COVID-19 del año 2020, en el mes de marzo, quedaron pendientes. Por favor escribe el tipo de *documento de la persona inscrita en el curso*, teniendo en cuenta las siguientes opciones:*1.* Para cédula de ciudadanía (CC), *Digite 1**2.* Para tarjeta de identidad (TI), *Digite 2*
+
+Escribe el *número de documento del cotizante*, sin puntos ni comas.Titular afiliado a Compensar.
+
+*{}*, en el sistema nos registra que el beneficiario *{}* tiene actualmente pendiente *{} clases* por reposición.*Escribe tu correo electrónico:*
+
+De acuerdo a disponibilidad, comparto horarios y fechas para la toma del servicio. Por favor verificar muy bien las fechas y horarios, ya que no es posible modificar los horarios una vez finalizada la inscripción.Debe escribir un solo código por cada fecha, *por ejemplo: H1**Elige tu primera clase:*
+
+El dato ingresado no es válido, por favor inténtelo nuevamente.
+
+Buen día *{}*, en *Compensar* queremos invitarte a que realices el agendamiento correspondiente de aquellas clases que debido a la emergencia sanitaria del COVID-19 del año 2020, en el mes de marzo, quedaron pendientes.Actualmente el sistema nos registra que *{}*, tiene {} clases pendientes por reposición. Por favor digita la palabra *PRESENCIAL* si deseas hacer efectiva la reposición de clases o si deseas iniciar un proceso de devolución de dinero:*Digite la palabra PRESENCIAL*. 
+
+Actualmente las redenciones presenciales *solo se están desarrollando en la sede Avenida 68*. Para AV 68. *Digite AV68*Para otras sedes. *Digite OTRAS*
+
+None
+
+Por favor elija la sede que de acuerdo a su ubicación, facitilita su desplazmiento para la toma del curso. Una vez se dé apertura de nuevos horarios esta sede, le estaremos notificando para su posterior agendamiento. Elije:Calle 220, *Digite S1* CBI Soacha, *Digite S2* CBI Zona Franca, *Digite S3* Chía, *Digite S4* San Roque, *Digite S5* Suba, *Digite S6*Autopista Sur, *Digite S7*Cajicá, *Digite S8* Para solicitar la devolución del dinero, *Digite la palabra DEVOLUCIÓN*
+
+Por favor escribe el tipo de *documento de la persona inscrita en el curso*, teniendo en cuenta las siguientes opciones:*1.* Para cédula de ciudadanía (CC), *Digite 1**2.* Para tarjeta de identidad (TI), *Digite 2*
+
